@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WALI-VROCK/static/css/main.14d1fa76.css",
+    "main.js": "/WALI-VROCK/static/js/main.0409ccc8.js",
+    "static/js/787.7ae88743.chunk.js": "/WALI-VROCK/static/js/787.7ae88743.chunk.js",
+    "index.html": "/WALI-VROCK/index.html",
+    "main.14d1fa76.css.map": "/WALI-VROCK/static/css/main.14d1fa76.css.map",
+    "main.0409ccc8.js.map": "/WALI-VROCK/static/js/main.0409ccc8.js.map",
+    "787.7ae88743.chunk.js.map": "/WALI-VROCK/static/js/787.7ae88743.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14d1fa76.css",
+    "static/js/main.0409ccc8.js"
+  ]
+}
